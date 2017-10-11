@@ -1,4 +1,5 @@
 #!/bin/bash
+/etc/init.d/ssh start
 
 # Prevent owner issues on mounted folders
 chown -R oracle:dba /u01/app/oracle
