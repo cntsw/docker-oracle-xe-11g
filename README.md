@@ -1,8 +1,5 @@
 docker-oracle-xe-11g
 ============================
-[![](https://images.microbadger.com/badges/image/sath89/oracle-xe-11g.svg)](https://microbadger.com/images/sath89/oracle-xe-11g "Get your own image badge on microbadger.com")
-
-[![](https://images.microbadger.com/badges/version/sath89/oracle-xe-11g.svg)](https://microbadger.com/images/sath89/oracle-xe-11g "Get your own version badge on microbadger.com")
 
 Oracle Express Edition 11g Release 2 on Ubuntu 14.04.1 LTS
 
